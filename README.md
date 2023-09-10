@@ -8,7 +8,7 @@ https://github.com/sk9073/SimplePhoneStore/assets/59683781/854af94a-2346-4da9-a1
   - [Pass data to a child component](https://angular.io/start#pass-data-to-a-child-component)
   - [Pass data to a parent component](https://angular.io/start#pass-data-to-a-parent-component)
   - [Navigation and routing to each phone's page](https://angular.io/start/start-routing#adding-navigation)
-
+  - [Managing data using service provider and HttpClient](https://angular.io/start/start-data#managing-data)
 
 # How to use ? 
 - Clone the repo
